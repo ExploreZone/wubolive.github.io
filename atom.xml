@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wubolive.com/"/>
-  <updated>2018-11-30T06:43:43.188Z</updated>
+  <updated>2018-11-30T13:43:23.503Z</updated>
   <id>http://blog.wubolive.com/</id>
   
   <author>
@@ -17,24 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux已虚拟用户方式安装Vsftpd</title>
-    <link href="http://blog.wubolive.com/2018/11/30/Linux-install-vsftpd/"/>
-    <id>http://blog.wubolive.com/2018/11/30/Linux-install-vsftpd/</id>
+    <title>Linux以虚拟用户方式安装Vsftpd</title>
+    <link href="http://blog.wubolive.com/2018/11/30/vsftpd-install/"/>
+    <id>http://blog.wubolive.com/2018/11/30/vsftpd-install/</id>
     <published>2018-11-30T06:36:28.000Z</published>
-    <updated>2018-11-30T06:43:43.188Z</updated>
+    <updated>2018-11-30T13:43:23.503Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;vsftpd的版本：vsftpd-3.0.2-22.el7.x86_64&lt;br&gt;ftp 根目录 : /da
+        &lt;!-- build time:Fri Nov 30 2018 21:43:35 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockq
       
     
     </summary>
     
+      <category term="Linux" scheme="http://blog.wubolive.com/categories/Linux/"/>
     
-      <category term="Ftp" scheme="http://blog.wubolive.com/tags/Ftp/"/>
+    
+      <category term="FTP" scheme="http://blog.wubolive.com/tags/FTP/"/>
     
   </entry>
   
@@ -43,19 +44,23 @@
     <link href="http://blog.wubolive.com/2018/11/30/ansible-hoc/"/>
     <id>http://blog.wubolive.com/2018/11/30/ansible-hoc/</id>
     <published>2018-11-30T06:13:28.000Z</published>
-    <updated>2018-11-30T06:21:26.246Z</updated>
+    <updated>2018-11-30T13:43:04.902Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansible命令使用方法&quot;&gt;&lt;/a&gt;ansible命令使用方法&lt;/h2&gt;&lt;figure class=&quot;highlight plai
+        &lt;!-- build time:Fri Nov 30 2018 21:43:35 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansi
       
     
     </summary>
     
+      <category term="Ansable" scheme="http://blog.wubolive.com/categories/Ansable/"/>
+    
     
       <category term="Ansible" scheme="http://blog.wubolive.com/tags/Ansible/"/>
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
     
   </entry>
   
@@ -64,20 +69,23 @@
     <link href="http://blog.wubolive.com/2018/11/30/ansible-mode/"/>
     <id>http://blog.wubolive.com/2018/11/30/ansible-mode/</id>
     <published>2018-11-30T06:11:28.000Z</published>
-    <updated>2018-11-30T06:17:06.611Z</updated>
+    <updated>2018-11-30T13:43:17.726Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;
-&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; title=&quot;yum模块&quot;&gt;&lt;/a&gt;yum模块&lt;/h2&gt;&lt;p&gt;yum：RedHat/CentOS包管理工具&lt;br&gt;&lt;figure
+        &lt;!-- build time:Fri Nov 30 2018 21:43:35 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; tit
       
     
     </summary>
     
+      <category term="Ansable" scheme="http://blog.wubolive.com/categories/Ansable/"/>
+    
     
       <category term="Ansible" scheme="http://blog.wubolive.com/tags/Ansible/"/>
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
     
   </entry>
   
@@ -86,20 +94,23 @@
     <link href="http://blog.wubolive.com/2018/11/30/ansible-install/"/>
     <id>http://blog.wubolive.com/2018/11/30/ansible-install/</id>
     <published>2018-11-30T06:10:28.000Z</published>
-    <updated>2018-11-30T06:16:57.175Z</updated>
+    <updated>2018-11-30T13:43:11.878Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;
-&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansible&quot; class=&quot;headerlink&quot; title=&quot;安装Ansible&quot;&gt;&lt;/a&gt;安装Ansible&lt;/h2&gt;&lt;
+        &lt;!-- build time:Fri Nov 30 2018 21:43:35 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansi
       
     
     </summary>
     
+      <category term="Ansable" scheme="http://blog.wubolive.com/categories/Ansable/"/>
+    
     
       <category term="Ansible" scheme="http://blog.wubolive.com/tags/Ansible/"/>
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
     
   </entry>
   
