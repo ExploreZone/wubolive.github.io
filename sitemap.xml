@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.wubolive.com/tags/index.html</loc>
+    
+    <lastmod>2018-11-30T09:49:48.965Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wubolive.com/repository/index.html</loc>
+    
+    <lastmod>2018-11-30T09:49:48.964Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wubolive.com/links/index.html</loc>
+    
+    <lastmod>2018-11-30T09:49:48.962Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wubolive.com/categories/index.html</loc>
+    
+    <lastmod>2018-11-30T09:49:48.960Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wubolive.com/books/index.html</loc>
+    
+    <lastmod>2018-11-30T09:49:48.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wubolive.com/about/index.html</loc>
+    
+    <lastmod>2018-11-30T09:49:48.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wubolive.com//404.html</loc>
+    
+    <lastmod>2018-11-30T09:49:48.950Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.wubolive.com/2018/11/29/README.cn/</loc>
     
     <lastmod>2018-11-30T06:43:49.693Z</lastmod>
@@ -9,28 +58,28 @@
   </url>
   
   <url>
-    <loc>http://blog.wubolive.com/2018/11/30/Linux/Linux-install-vsftpd/</loc>
+    <loc>http://blog.wubolive.com/2018/11/30/Linux-install-vsftpd/</loc>
     
     <lastmod>2018-11-30T06:43:43.188Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.wubolive.com/2018/11/30/Ansible/ansible-hoc/</loc>
+    <loc>http://blog.wubolive.com/2018/11/30/ansible-hoc/</loc>
     
     <lastmod>2018-11-30T06:21:26.246Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.wubolive.com/2018/11/30/Ansible/ansible-mode/</loc>
+    <loc>http://blog.wubolive.com/2018/11/30/ansible-mode/</loc>
     
     <lastmod>2018-11-30T06:17:06.611Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.wubolive.com/2018/11/30/Ansible/ansible-install/</loc>
+    <loc>http://blog.wubolive.com/2018/11/30/ansible-install/</loc>
     
     <lastmod>2018-11-30T06:16:57.175Z</lastmod>
     
