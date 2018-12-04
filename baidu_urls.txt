@@ -1,1 +1,1 @@
-http://blog.wubolive.com/2018/11/30/vsftpd-install/
+http://blog.wubolive.com/2018/11/30/k8s-harbor-port/

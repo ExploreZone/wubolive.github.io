@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wubolive.com/"/>
-  <updated>2018-11-30T13:43:23.503Z</updated>
+  <updated>2018-12-04T01:08:49.036Z</updated>
   <id>http://blog.wubolive.com/</id>
   
   <author>
@@ -17,17 +17,71 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux以虚拟用户方式安装Vsftpd</title>
-    <link href="http://blog.wubolive.com/2018/11/30/vsftpd-install/"/>
-    <id>http://blog.wubolive.com/2018/11/30/vsftpd-install/</id>
+    <title>Harbr更改端口</title>
+    <link href="http://blog.wubolive.com/2018/11/30/k8s-harbor-port/"/>
+    <id>http://blog.wubolive.com/2018/11/30/k8s-harbor-port/</id>
     <published>2018-11-30T06:36:28.000Z</published>
-    <updated>2018-11-30T13:43:23.503Z</updated>
+    <updated>2018-12-04T01:08:49.036Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Dec 01 2018 13:05:10 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockq
+        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;默认情况下，Ha
+      
+    
+    </summary>
+    
+      <category term="K8s" scheme="http://blog.wubolive.com/categories/K8s/"/>
+    
+      <category term="Docker" scheme="http://blog.wubolive.com/categories/K8s/Docker/"/>
+    
+    
+      <category term="K8s" scheme="http://blog.wubolive.com/tags/K8s/"/>
+    
+      <category term="Docker" scheme="http://blog.wubolive.com/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Harbor私有仓库安装</title>
+    <link href="http://blog.wubolive.com/2018/11/30/k8s-harbor-install/"/>
+    <id>http://blog.wubolive.com/2018/11/30/k8s-harbor-install/</id>
+    <published>2018-11-30T06:36:28.000Z</published>
+    <updated>2018-12-04T01:08:47.072Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Harbor安装&quot;&gt;&lt;a href=&quot;#Harbor安装&quot; class=&quot;headerlink&quot; title=&quot;Harbor安装&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+      <category term="K8s" scheme="http://blog.wubolive.com/categories/K8s/"/>
+    
+      <category term="Docker" scheme="http://blog.wubolive.com/categories/K8s/Docker/"/>
+    
+    
+      <category term="K8s" scheme="http://blog.wubolive.com/tags/K8s/"/>
+    
+      <category term="Docker" scheme="http://blog.wubolive.com/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux以虚拟用户方式安装Vsftpd</title>
+    <link href="http://blog.wubolive.com/2018/11/30/vsftpd-install/"/>
+    <id>http://blog.wubolive.com/2018/11/30/vsftpd-install/</id>
+    <published>2018-11-30T06:36:28.000Z</published>
+    <updated>2018-12-04T01:07:20.857Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockq
       
     
     </summary>
@@ -50,7 +104,7 @@
     
       
       
-        &lt;!-- build time:Sat Dec 01 2018 13:05:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansi
+        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansi
       
     
     </summary>
@@ -75,7 +129,7 @@
     
       
       
-        &lt;!-- build time:Sat Dec 01 2018 13:05:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; tit
+        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; tit
       
     
     </summary>
@@ -100,7 +154,7 @@
     
       
       
-        &lt;!-- build time:Sat Dec 01 2018 13:05:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansi
+        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansi
       
     
     </summary>
