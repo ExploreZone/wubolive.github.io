@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wubolive.com/"/>
-  <updated>2018-12-04T01:08:49.036Z</updated>
+  <updated>2018-12-07T09:15:50.636Z</updated>
   <id>http://blog.wubolive.com/</id>
   
   <author>
@@ -17,17 +17,117 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Harbr更改端口</title>
-    <link href="http://blog.wubolive.com/2018/11/30/k8s-harbor-port/"/>
-    <id>http://blog.wubolive.com/2018/11/30/k8s-harbor-port/</id>
-    <published>2018-11-30T06:36:28.000Z</published>
-    <updated>2018-12-04T01:08:49.036Z</updated>
+    <title>CentOS6 安装nfs共享目录服务</title>
+    <link href="http://blog.wubolive.com/2018/12/07/nfs-install/"/>
+    <id>http://blog.wubolive.com/2018/12/07/nfs-install/</id>
+    <published>2018-12-07T09:13:28.000Z</published>
+    <updated>2018-12-07T09:15:50.636Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;默认情况下，Ha
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;服务器IP：&lt;c
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
+    
+      <category term="NFS" scheme="http://blog.wubolive.com/tags/NFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vncserver端口占用解决方法</title>
+    <link href="http://blog.wubolive.com/2018/12/07/vnc-pord/"/>
+    <id>http://blog.wubolive.com/2018/12/07/vnc-pord/</id>
+    <published>2018-12-07T09:00:28.000Z</published>
+    <updated>2018-12-07T09:18:42.748Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;在重启kvn物理服务器后启动vncserver服务时报错，如下&lt;br&gt;&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;tab
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
+    
+      <category term="Vnc" scheme="http://blog.wubolive.com/tags/Vnc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rabbitMQ 安装</title>
+    <link href="http://blog.wubolive.com/2018/12/07/rebbitmq-install/"/>
+    <id>http://blog.wubolive.com/2018/12/07/rebbitmq-install/</id>
+    <published>2018-12-07T07:00:28.000Z</published>
+    <updated>2018-12-07T09:22:17.535Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;安装依赖&quot;&gt;&lt;a href=&quot;#安装依赖&quot; class=&quot;headerlink&quot; title=&quot;安装依赖&quot;&gt;&lt;/a&gt;安装依赖&lt;/h3&gt;&lt;fi
+      
+    
+    </summary>
+    
+      <category term="MQ" scheme="http://blog.wubolive.com/categories/MQ/"/>
+    
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
+    
+      <category term="rabbitMQ" scheme="http://blog.wubolive.com/tags/rabbitMQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vncserver安装及配置</title>
+    <link href="http://blog.wubolive.com/2018/12/07/vnc-install/"/>
+    <id>http://blog.wubolive.com/2018/12/07/vnc-install/</id>
+    <published>2018-12-07T07:00:28.000Z</published>
+    <updated>2018-12-07T09:23:08.607Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;##说明&lt;br&gt;安装服务的过程当中，最好是在联网环境下操作。由于涉及到远程连接的问题，系统的防火墙需要关闭，或者是做好相应的过滤策略。参考了网上很多大
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
+    
+      <category term="Vnc" scheme="http://blog.wubolive.com/tags/Vnc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Harbr更改端口</title>
+    <link href="http://blog.wubolive.com/2018/12/04/k8s-harbor-port/"/>
+    <id>http://blog.wubolive.com/2018/12/04/k8s-harbor-port/</id>
+    <published>2018-12-04T02:36:28.000Z</published>
+    <updated>2018-12-04T01:12:07.205Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;默认情况下，Ha
       
     
     </summary>
@@ -45,16 +145,16 @@
   
   <entry>
     <title>Harbor私有仓库安装</title>
-    <link href="http://blog.wubolive.com/2018/11/30/k8s-harbor-install/"/>
-    <id>http://blog.wubolive.com/2018/11/30/k8s-harbor-install/</id>
-    <published>2018-11-30T06:36:28.000Z</published>
-    <updated>2018-12-04T01:08:47.072Z</updated>
+    <link href="http://blog.wubolive.com/2018/12/04/k8s-harbor-install/"/>
+    <id>http://blog.wubolive.com/2018/12/04/k8s-harbor-install/</id>
+    <published>2018-12-04T01:11:28.000Z</published>
+    <updated>2018-12-04T01:11:55.201Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Harbor安装&quot;&gt;&lt;a href=&quot;#Harbor安装&quot; class=&quot;headerlink&quot; title=&quot;Harbor安装&quot;&gt;&lt;/a&gt;
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Harbor安装&quot;&gt;&lt;a href=&quot;#Harbor安装&quot; class=&quot;headerlink&quot; title=&quot;Harbor安装&quot;&gt;&lt;/a&gt;
       
     
     </summary>
@@ -71,6 +171,31 @@
   </entry>
   
   <entry>
+    <title>Kvm虚拟机迁移方案</title>
+    <link href="http://blog.wubolive.com/2018/12/01/kvm-scp/"/>
+    <id>http://blog.wubolive.com/2018/12/01/kvm-scp/</id>
+    <published>2018-12-01T02:00:28.000Z</published>
+    <updated>2018-12-07T09:25:22.014Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;在node1上的img镜像文件拷贝到node11上&quot;&gt;&lt;a href=&quot;#在node1上的img镜像文件拷贝到node11上&quot; class=
+      
+    
+    </summary>
+    
+      <category term="Kvm" scheme="http://blog.wubolive.com/categories/Kvm/"/>
+    
+    
+      <category term="Linux" scheme="http://blog.wubolive.com/tags/Linux/"/>
+    
+      <category term="Kvm" scheme="http://blog.wubolive.com/tags/Kvm/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux以虚拟用户方式安装Vsftpd</title>
     <link href="http://blog.wubolive.com/2018/11/30/vsftpd-install/"/>
     <id>http://blog.wubolive.com/2018/11/30/vsftpd-install/</id>
@@ -81,7 +206,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockq
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockq
       
     
     </summary>
@@ -104,7 +229,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansi
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansi
       
     
     </summary>
@@ -129,7 +254,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; tit
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; tit
       
     
     </summary>
@@ -154,7 +279,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 04 2018 09:09:09 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansi
+        &lt;!-- build time:Fri Dec 07 2018 17:29:41 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansi
       
     
     </summary>
