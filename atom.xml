@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wubolive.com/"/>
-  <updated>2018-12-18T10:53:45.106Z</updated>
+  <updated>2018-12-18T11:15:27.720Z</updated>
   <id>http://blog.wubolive.com/</id>
   
   <author>
@@ -17,17 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>高可用源码部署Kubernetes</title>
+    <title>Kubernetes 排错之 Pod 异常</title>
     <link href="http://blog.wubolive.com/2018/12/18/k8s-pod-error/"/>
     <id>http://blog.wubolive.com/2018/12/18/k8s-pod-error/</id>
     <published>2018-12-18T11:26:22.000Z</published>
-    <updated>2018-12-18T10:53:45.106Z</updated>
+    <updated>2018-12-18T11:15:27.720Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:52 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;本章介绍-Pod-运行异常的排错方法。&quot;&gt;&lt;a href=&quot;#本章介绍-Pod-运行异常的排错方法。&quot; class=&quot;headerlink&quot;
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;本章介绍-Pod-运行异常的排错方法。&quot;&gt;&lt;a href=&quot;#本章介绍-Pod-运行异常的排错方法。&quot; class=&quot;headerlink&quot;
       
     
     </summary>
@@ -50,7 +50,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:04 GMT+0800 (中国标准时间) --&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left&quot;&gt;角色&lt;/th&gt;&lt;th style=&quot;text-align:lef
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:left&quot;&gt;角色&lt;/th&gt;&lt;th style=&quot;text-align:lef
       
     
     </summary>
@@ -77,7 +77,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;服务器IP：&lt;c
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;服务器IP：&lt;c
       
     
     </summary>
@@ -102,7 +102,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;在重启kvn物理服务器后启动vncserver服务时报错，如下&lt;br&gt;&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;tab
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;在重启kvn物理服务器后启动vncserver服务时报错，如下&lt;br&gt;&lt;/p&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;tab
       
     
     </summary>
@@ -127,7 +127,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;安装依赖&quot;&gt;&lt;a href=&quot;#安装依赖&quot; class=&quot;headerlink&quot; title=&quot;安装依赖&quot;&gt;&lt;/a&gt;安装依赖&lt;/h3&gt;&lt;fi
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;安装依赖&quot;&gt;&lt;a href=&quot;#安装依赖&quot; class=&quot;headerlink&quot; title=&quot;安装依赖&quot;&gt;&lt;/a&gt;安装依赖&lt;/h3&gt;&lt;fi
       
     
     </summary>
@@ -152,7 +152,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;##说明&lt;br&gt;安装服务的过程当中，最好是在联网环境下操作。由于涉及到远程连接的问题，系统的防火墙需要关闭，或者是做好相应的过滤策略。参考了网上很多大
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;##说明&lt;br&gt;安装服务的过程当中，最好是在联网环境下操作。由于涉及到远程连接的问题，系统的防火墙需要关闭，或者是做好相应的过滤策略。参考了网上很多大
       
     
     </summary>
@@ -177,7 +177,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;默认情况下，Ha
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;默认情况下，Ha
       
     
     </summary>
@@ -204,7 +204,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Harbor安装&quot;&gt;&lt;a href=&quot;#Harbor安装&quot; class=&quot;headerlink&quot; title=&quot;Harbor安装&quot;&gt;&lt;/a&gt;
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Harbor安装&quot;&gt;&lt;a href=&quot;#Harbor安装&quot; class=&quot;headerlink&quot; title=&quot;Harbor安装&quot;&gt;&lt;/a&gt;
       
     
     </summary>
@@ -231,7 +231,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;在node1上的img镜像文件拷贝到node11上&quot;&gt;&lt;a href=&quot;#在node1上的img镜像文件拷贝到node11上&quot; class=
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;在node1上的img镜像文件拷贝到node11上&quot;&gt;&lt;a href=&quot;#在node1上的img镜像文件拷贝到node11上&quot; class=
       
     
     </summary>
@@ -256,7 +256,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockq
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h3 id=&quot;说明：&quot;&gt;&lt;a href=&quot;#说明：&quot; class=&quot;headerlink&quot; title=&quot;说明：&quot;&gt;&lt;/a&gt;说明：&lt;/h3&gt;&lt;blockq
       
     
     </summary>
@@ -279,7 +279,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansi
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;ansible命令使用方法&quot;&gt;&lt;a href=&quot;#ansible命令使用方法&quot; class=&quot;headerlink&quot; title=&quot;ansi
       
     
     </summary>
@@ -304,7 +304,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; tit
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Ansible常用模块，长期更新…&lt;/p&gt;&lt;h2 id=&quot;yum模块&quot;&gt;&lt;a href=&quot;#yum模块&quot; class=&quot;headerlink&quot; tit
       
     
     </summary>
@@ -329,7 +329,7 @@
     
       
       
-        &lt;!-- build time:Tue Dec 18 2018 18:53:03 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansi
+        &lt;!-- build time:Tue Dec 18 2018 19:16:15 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本文讲述如何安装Ansible环境，了解Ansible基本配置、运行测试&lt;/p&gt;&lt;h2 id=&quot;安装Ansible&quot;&gt;&lt;a href=&quot;#安装Ansi
       
     
     </summary>
