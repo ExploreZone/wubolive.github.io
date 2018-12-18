@@ -1,1 +1,1 @@
-http://blog.wubolive.com/2018/12/18/k8s-install/
+http://blog.wubolive.com/2018/12/18/k8s-pod-error/
