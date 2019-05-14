@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.wubolive.com/2019/03/17/python3-install/</loc>
+    <lastmod>2019-05-14T01:47:01.666Z</lastmod>
+  </url>  <url>
+    <loc>http://blog.wubolive.com/2018/11/30/ansible-hoc/</loc>
+    <lastmod>2019-05-14T01:45:05.137Z</lastmod>
+  </url>  <url>
+    <loc>http://blog.wubolive.com/2019/03/26/centos7-install-python3/</loc>
+    <lastmod>2019-05-13T10:12:01.815Z</lastmod>
+  </url>  <url>
+    <loc>http://blog.wubolive.com/2018/11/30/vsftpd-install/</loc>
+    <lastmod>2019-05-13T09:52:02.196Z</lastmod>
+  </url>  <url>
     <loc>http://blog.wubolive.com/2018/12/25/kubernetes1.13/</loc>
     <lastmod>2018-12-25T01:55:54.455Z</lastmod>
   </url>  <url>
@@ -28,16 +40,10 @@
     <loc>http://blog.wubolive.com/2018/12/04/k8s-harbor-install/</loc>
     <lastmod>2018-12-04T01:11:55.201Z</lastmod>
   </url>  <url>
-    <loc>http://blog.wubolive.com/2018/11/30/vsftpd-install/</loc>
-    <lastmod>2018-12-04T01:07:20.857Z</lastmod>
-  </url>  <url>
     <loc>http://blog.wubolive.com/2018/11/30/ansible-mode/</loc>
     <lastmod>2018-11-30T13:43:17.726Z</lastmod>
   </url>  <url>
     <loc>http://blog.wubolive.com/2018/11/30/ansible-install/</loc>
     <lastmod>2018-11-30T13:43:11.878Z</lastmod>
-  </url>  <url>
-    <loc>http://blog.wubolive.com/2018/11/30/ansible-hoc/</loc>
-    <lastmod>2018-11-30T13:43:04.902Z</lastmod>
   </url>
 </urlset>

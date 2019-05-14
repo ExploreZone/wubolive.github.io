@@ -1,1 +1,1 @@
-http://blog.wubolive.com/2018/12/25/kubernetes1.13/
+http://blog.wubolive.com/2019/03/26/centos7-install-python3/
